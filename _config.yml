@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Jalpc
+title: Sai's Page
 description: Sai's blog,use Jekyll and github pages.
 keywords: Sai,Jalpc,blog,Jekyll,github,gh-pages
 baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -11,13 +11,13 @@ img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/asset
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
-  first_name: Hub  # Be used at index page about me section.
-  last_name: Git  # Be used at index page about me section.
+  name: Sai Jiang  # Be used at blog posts' author.
+  first_name: Sai  # Be used at index page about me section.
+  last_name: Jiang  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: sj1456  # Leave blank if you don't have now
   linkedin_id: sai-jiang-55a71670 # Leave blank if you don't have now
-  facebook_username: jiakunnj  # Leave blank if you don't have now
+  facebook_username: sj1456  # Leave blank if you don't have now
   twitter_username: jiakun614  # Leave blank if you don't have now
   email: jiangsai@google.com  # Leave blank if you don't have now
   cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now

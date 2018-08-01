@@ -5,5 +5,8 @@
 - src: landing/seattle.jpg
   title: first banner image
 
-- src: landing/header_two.jpg
+- src: landing/seattle2.jpg
   title: second banner image
+
+- src: landing/seattle3.jpg
+  title: third banner image
